@@ -1,0 +1,23 @@
+# Módulos npm instalados localmente
+/node_modules
+
+# Arquivos gerados dinamicamente
+/dist
+/tmp
+
+# Logs e arquivos temporários
+logs
+*.log
+
+# Arquivos de dependência ou configuração
+.env
+
+# Arquivos de compilação
+/build
+
+# Arquivos de dependência do yarn
+.yarn
+
+# Diretórios específicos de IDEs
+.idea
+.vscode
